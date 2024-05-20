@@ -1,4 +1,4 @@
-# HYR-SENSE: Hyperspectral and Thermal Remote Sensing for Environmental Justice
+# HYR-SENSE: Hyperspectral and Thermal Remote Sensing for Environmental Justice at Acoma Pueblo, New Mexico
 ![](./assets/esiil_content/Hyrsense.jpeg)
 
 
