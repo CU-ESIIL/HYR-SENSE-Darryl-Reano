@@ -1,11 +1,11 @@
-site_name: 'HYR-SENSE workshop'
-site_description: 'Central resource for NASA-ESIIL HYR-SENSE workshop'
-site_author: ESIIL and NASA staff
-site_url: https://cu-esiil.github.io/HYR-SENSE
+site_name: 'HYR-SENSE workshop: Darryl Reano'
+site_description: 'REANO resource for NASA-ESIIL HYR-SENSE workshop'
+site_author: D. Reano
+site_url: https://cu-esiil.github.io/HYR-SENSE-Darryl-Reano/
 
 # Repository
-repo_name: HYR-SENSE
-repo_url: https://github.com/CU-ESIIL/HYR-SENSE
+repo_name: HYR-SENSE-Darryl Reano
+repo_url: https://github.com/CU-ESIIL/HYR-SENSE-Darryl-Reano/
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
